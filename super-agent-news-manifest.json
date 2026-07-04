@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxNODFlbFplSnZYVjJ5aURud2I3RHlsTnlyV0szUnRWdnM1M3NJQ0UweXNOSFlSTHlXajBvU2t4RmVVR05tMlR2YS1odWIyQlpMemFjS3NoMUk5Vlc4dm4tRXlTWnRYTmtuWVkwYWdrTGxMeWhXRjc4ZW1ST2FmdkxVRlNuMjlDZGtNTHAtMGRxUFpWZmVZaTVISmRLSC1UdGs?oc=5)",
+    "[MIT News](https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5)",
+    "[SC Media](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa?oc=5)",
+    "[Business Wire](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTkc0bFlWMHo4cW96WmRGZjA2YnVoS3llNW5wazF2RVdhN0tEN1RXc0FBWHV4YXdBM1BraGNUcGVaOGplMmN4R0RkcUtSWGNyLXNvSmRmVkI5VVk1MnFxQlQzUTRpdUlKbTJGUlF2WERMcGg4MmtrZWZJeUpqTm9RVXAyd2NFdFVObzd1ZWlSYllWM0dRLUlfMVNzVHdYTjNEbXhvdGwtQWNUWWwyeEF4RXBaRUh2Uk1zMEFsaWhMTzJUZ3U4UUZMMEExYnFTOWk0NUZuMmlrRW5DZkhyMklqcDZfamp2Ty1seTRaaE5B?oc=5)",
+    "[writingtools.ai](https://writingtools.ai/tools/html-css-code-generator)"
+  ],
+  "design_plan": "seed=424242; hero_math=1120px max-width for 2\u20133 lines; AIDA checked; bento_density grid-auto-flow:dense verified; label sweep includes Folk, Orchids, Siri, ChatGPT, Gemini, Grok; button contrast AA+; animations guarded; cache phrase visible.",
+  "generated_at": "2026-07-04T15:07:24.440782+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion\u2011focused landing page for local service operators (HVAC, home services, clinics, trades) who need an AI agent to actually do the work: manage bookings, send quotes, and reply to customers across real apps. Super operates computers end\u2011to\u2011end and reuses a computer\u2011use cache so repeated workflows get faster and cheaper over time. Built with the same polished comparison\u2011page visual system\u2014cinematic hero, dense bento cards, credible sources, and strong CTAs."
+}
